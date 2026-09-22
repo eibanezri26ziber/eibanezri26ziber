@@ -1,7 +1,5 @@
 ## Hola soy Erick Ibañez y soy un alumno de ciberseguridad de zubiri manteo 👋
 
----
-
 ### 🛡️ Sobre mí
 
 🎓 Estudiando **Ciberseguridad** en **Zubiri Manteo**  
