@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola soy Erick Ibañez y soy un alumno de ciberseguridad de zubiri manteo 👋
 
 <!--
 **eibanezri26ziber/eibanezri26ziber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
